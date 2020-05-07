@@ -1,5 +1,5 @@
 rem "ping -n 2" the "2" is the number of seconds to delay to changing color, you can edit this
-rem if the text is not delaying (aka flashing at a rapid rate) then replace "127.0.0.1" with localhost
+rem if the text is not delaying then replace "127.0.0.1" with localhost
 
 @echo off
 title Credentials        
