@@ -1,6 +1,6 @@
 Hello!
 Welcome to Side's IP Menu
-This is Version 2.0
+This is Version 1.0
 There should be a .bat file called "Credentials".
 Double click on it and it will show you your username and password.
 You will need these for the menu
